@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: Roboto;
+}
+.wave-image {
+  height: 40px;
+  width: 40px;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  margin-left: 10px;
+  color: #12022f;
+
+  margin-top: 5px;
+}
+.items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.nav-links {
+  color: #12022f;
+  margin-left: 20px;
+}
